@@ -2,7 +2,7 @@
 # Title: Alberta Hospital (AH) Management System    #
 # Author: Kevin Waje                                #
 # Modified by: Mark Pagarigan                       #
-# Version: v1.2                                     #
+# Version: v1.2                                     ##
 # Project: Classes Group                            #
 #####################################################
 
