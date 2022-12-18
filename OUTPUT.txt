@@ -1,0 +1,346 @@
+Welcome to Alberta Hospital (AH) Managment system 
+Select from the following options, or select 0 to stop: 
+1 -     Doctors
+2 -     Facilities
+3 -     Laboratories
+4 -     Patients 
+
+Option: 1
+
+Doctors Menu:
+1 - Display Doctors list
+2 - Search for doctor by ID
+3 - Search for doctor by name
+4 - Add doctor
+5 - Edit doctor info
+6 - Back to the Main Menu
+
+Option: 1
+id     name         specilist       timing          qualification   roomNb
+21     Dr.Gody      ENT             5-11AM          MBBS,MD         17
+32     Dr.Vikram    Physician       10-3AM          MBBS,MD         45
+17     Dr.Amy       Surgeon         8-2AM           BDM             8
+33     Dr.David     Artho           10-4PM          MBBS,MS         40        
+123    Dr.Ross      Headackes       8-10am          Mst             102       
+66     Dr.Mike      Heart           9am-5pm         MS              2
+
+Back to the prevoius Menu
+
+Doctors Menu:
+1 - Display Doctors list
+2 - Search for doctor by ID
+3 - Search for doctor by name
+4 - Add doctor
+5 - Edit doctor info
+6 - Back to the Main Menu
+
+Option: 2
+Enter Doctor's ID: 66
+id     name         specilist       timing          qualification   roomNb    
+66     Dr.Mike      Heart           9am-5pm         MS              2
+
+Back to the prevoius Menu
+
+Doctors Menu:
+1 - Display Doctors list
+2 - Search for doctor by ID
+3 - Search for doctor by name
+4 - Add doctor
+5 - Edit doctor info
+6 - Back to the Main Menu
+
+Option: 3
+Enter Doctor's Name: Dr.David
+id     name         specilist       timing          qualification   roomNb    
+33     Dr.David     Artho           10-4PM          MBBS,MS         40        
+
+Back to the prevoius Menu
+
+Doctors Menu:
+1 - Display Doctors list
+2 - Search for doctor by ID
+3 - Search for doctor by name
+4 - Add doctor
+5 - Edit doctor info
+6 - Back to the Main Menu
+
+Option: 2
+Enter Doctor's ID: 20
+Can't find the doctor with the same ID on the system
+
+Back to the prevoius Menu
+
+Doctors Menu:
+1 - Display Doctors list
+2 - Search for doctor by ID
+3 - Search for doctor by name
+4 - Add doctor
+5 - Edit doctor info
+6 - Back to the Main Menu
+
+Option: 3
+Enter Doctor's Name: Dr. Tom
+Can't find the doctor with the same name on the system
+
+Back to the prevoius Menu
+
+Doctors Menu:
+1 - Display Doctors list
+2 - Search for doctor by ID
+3 - Search for doctor by name
+4 - Add doctor
+5 - Edit doctor info
+6 - Back to the Main Menu
+
+Option: 4
+Enter the doctor’s ID: 62
+Enter the doctor’s name: Dr. Smith
+Enter the doctor’s specility: Heart
+Enter the doctor’s timing (e.g., 7am-10pm): 6am-11am
+Enter the doctor’s qualification: PHD
+Enter the doctor’s room number: 12
+
+Back to the prevoius Menu
+
+Doctors Menu:
+1 - Display Doctors list
+2 - Search for doctor by ID
+3 - Search for doctor by name
+4 - Add doctor
+5 - Edit doctor info
+6 - Back to the Main Menu
+
+Option: 5
+Please enter the id of the doctor that you want to edit their information: 66 
+Enter new Name: Dr. Mike kale
+Enter new Specilist in: Heart
+Enter new Timing:  9am-3pm
+Enter new Qualification: MS
+Enter new Room number: 2
+
+Back to the prevoius Menu
+
+Doctors Menu:
+1 - Display Doctors list
+2 - Search for doctor by ID
+3 - Search for doctor by name
+4 - Add doctor
+5 - Edit doctor info
+6 - Back to the Main Menu
+
+Option: 6
+
+Back to the prevoius Menu
+
+Welcome to Alberta Hospital (AH) Managment system
+Select from the following options, or select 0 to stop:
+1 -     Doctors
+2 -     Facilities
+3 -     Laboratories
+4 -     Patients
+
+Option: 2
+Facilities Menu:
+1 - Display Facilities list
+2 - Add Facility
+3 - Back to the Main Menu
+
+Option: 1
+Hospital  Facility are:
+Ambulance
+Admit Facility
+Canteen
+Emergency
+
+
+Back to the prevoius Menu
+Facilities Menu:
+1 - Display Facilities list
+2 - Add Facility
+3 - Back to the Main Menu
+
+Option: 2
+Enter Facility name: Covid Care
+
+Back to the prevoius Menu
+Facilities Menu:
+1 - Display Facilities list
+2 - Add Facility
+3 - Back to the Main Menu
+
+Option: 1
+Hospital  Facility are:
+Ambulance
+Admit Facility
+Canteen
+Emergency
+Covid Care
+
+
+Back to the prevoius Menu
+Facilities Menu:
+1 - Display Facilities list
+2 - Add Facility
+3 - Back to the Main Menu
+
+Option: 3
+
+Welcome to Alberta Hospital (AH) Managment system
+Select from the following options, or select 0 to stop:
+1 -     Doctors
+2 -     Facilities
+3 -     Laboratories
+4 -     Patients
+
+Option: 3
+Laboratories Menu:
+1 - Display laboratories list
+2 - Add laboratory
+3 - Back to the Main Menu
+Option :1
+ Facility                Cost
+ Facility1               800
+ Facility2               1200
+ Facility3               500
+ Facility4               50
+
+Back to previous Menu
+Laboratories Menu:
+1 - Display laboratories list
+2 - Add laboratory
+3 - Back to the Main Menu
+Option :2
+Enter Facility Name: Facility5 
+Enter Facility Cost: 250
+
+Back to previous Menu
+Laboratories Menu:
+1 - Display laboratories list
+2 - Add laboratory
+3 - Back to the Main Menu
+Option :1
+ Facility                Cost
+ Facility1               800
+ Facility2               1200
+ Facility3               500
+ Facility4               50
+ Facility5               250.0
+
+Back to previous Menu
+Laboratories Menu:
+1 - Display laboratories list
+2 - Add laboratory
+3 - Back to the Main Menu
+Option :3
+
+Welcome to Alberta Hospital (AH) Managment system
+Select from the following options, or select 0 to stop:
+1 -     Doctors
+2 -     Facilities
+3 -     Laboratories
+4 -     Patients
+
+Option: 4
+ Patients Menu:
+1 - Display patients list
+2 - Search for patient by ID
+3 - Add patient
+4 - Edit patient info
+5 - Back to the Main Menu
+
+Option: 1
+id     Name         Disease         Gender          Age
+12     Pankaj       Cancer          Male            30
+13     Sumit        Cold            Male            23
+14     Alok         Maleriya        Male            45
+15     Ravi         Diabetes        Male            25
+
+Back to the prevoius Menu
+ Patients Menu:
+1 - Display patients list
+2 - Search for patient by ID
+3 - Add patient
+4 - Edit patient info
+5 - Back to the Main Menu
+
+Option: 2
+Enter the Patient Id: 16
+Can't find the patient with the same ID on the system
+
+Back to the prevoius Menu
+ Patients Menu:
+1 - Display patients list
+2 - Search for patient by ID
+3 - Add patient
+4 - Edit patient info
+5 - Back to the Main Menu
+
+Option: 2
+Enter the Patient Id: 15
+id     Name         Disease         Gender          Age
+15     Ravi         Diabetes        Male            25
+
+Back to the prevoius Menu
+ Patients Menu:
+1 - Display patients list
+2 - Search for patient by ID
+3 - Add patient
+4 - Edit patient info
+5 - Back to the Main Menu
+
+Option: 3
+Enter Patient id: 16
+Enter Patient name: Mary
+Enter Patient disease: Cancer
+Enter Patient gender: Female
+Enter Patient age:55
+
+Back to the prevoius Menu
+ Patients Menu:
+1 - Display patients list
+2 - Search for patient by ID
+3 - Add patient
+4 - Edit patient info
+5 - Back to the Main Menu
+
+Option: 4
+Please enter the id of the Patient that you want to edit their information:  13
+Enter new Name: Janina
+Enter new disease: Cold&Flue
+Enter new gender: Female
+Enter new age: 23
+
+Back to the prevoius Menu
+ Patients Menu:
+1 - Display patients list
+2 - Search for patient by ID
+3 - Add patient
+4 - Edit patient info
+5 - Back to the Main Menu
+
+Option: 1
+id     Name         Disease         Gender          Age
+12     Pankaj       Cancer          Male            30
+13     Janina       Cold&Flue       Female          23
+14     Alok         Maleriya        Male            45
+15     Ravi         Diabetes        Male            25
+16     Mary         Cancer          Female          55
+
+Back to the prevoius Menu
+ Patients Menu:
+1 - Display patients list
+2 - Search for patient by ID
+3 - Add patient
+4 - Edit patient info
+5 - Back to the Main Menu
+
+Option: 5
+
+Welcome to Alberta Hospital (AH) Managment system
+Select from the following options, or select 0 to stop:
+1 -     Doctors
+2 -     Facilities
+3 -     Laboratories
+4 -     Patients
+
+Option: 0
